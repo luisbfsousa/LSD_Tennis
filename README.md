@@ -1,5 +1,1 @@
-# Projeto para Laboratórios de Sistemas Digitais
-
-#Projeto desenvolvido em VHDL
-
-
+# Projeto Laboratório de Sistemas Digitais
